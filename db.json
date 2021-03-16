@@ -1,0 +1,598 @@
+{
+    "hero": {
+        "id": 1,
+        "video": "PkZNo7MFNFg",
+        "description": "Pembukaan"
+    },
+    "categories": [
+        {
+            "id": 1,
+            "kategori": "FORMAL EDUKASI",
+            "total": 120,
+            "item": [
+                {
+                    "id": 1,
+                    "title": "SD",
+                    "item": [
+                        {
+                            "id": 1,
+                            "title": "Matematika"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "SMP",
+                    "item": [
+                        {
+                            "id": 1,
+                            "title": "Bahasa Inggris"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "kategori": "SOFT SKILL",
+            "total": 120,
+            "item": [
+                {
+                    "id": 1,
+                    "title": "Programming",
+                    "total": 183,
+                    "item": [
+                        {
+                            "id": 1,
+                            "name": "javascript1",
+                            "description": "Javascript adalah bahasa pemrograman yang banyak diminati oleh developer untuk front end",
+                            "level": "beginner",
+                            "price": 250000,
+                            "chapter": [
+                                {
+                                    "id": 1,
+                                    "title": "Pengenalan Javascript",
+                                    "video": "RUTV_5m4VeI"
+                                },
+                                {
+                                    "id": 2,
+                                    "title": "Apa itu pemrograman",
+                                    "video": "RUTV_5m4VeI"
+                                },
+                                {
+                                    "id": 3,
+                                    "title": "Bahasa Pemrograman",
+                                    "video": "RUTV_5m4VeI"
+                                }
+                            ],
+                            "review": [
+                                {
+                                    "id": 1,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "javascript2",
+                            "level": "beginner",
+                            "price": 250000,
+                            "chapter": [
+                                {
+                                    "id": 1,
+                                    "title": "Pengenalan Javascript",
+                                    "video": "RUTV_5m4VeI"
+                                },
+                                {
+                                    "id": 2,
+                                    "title": "Apa itu pemrograman",
+                                    "video": "RUTV_5m4VeI"
+                                },
+                                {
+                                    "id": 3,
+                                    "title": "Bahasa Pemrograman",
+                                    "video": "RUTV_5m4VeI"
+                                }
+                            ],
+                            "review": [
+                                {
+                                    "id": 1,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "javascript3",
+                            "level": "beginner",
+                            "price": 250000,
+                            "chapter": [
+                                {
+                                    "id": 1,
+                                    "title": "Pengenalan Javascript",
+                                    "video": "RUTV_5m4VeI"
+                                },
+                                {
+                                    "id": 2,
+                                    "title": "Apa itu pemrograman",
+                                    "video": "RUTV_5m4VeI"
+                                },
+                                {
+                                    "id": 3,
+                                    "title": "Bahasa Pemrograman",
+                                    "video": "RUTV_5m4VeI"
+                                }
+                            ],
+                            "review": [
+                                {
+                                    "id": 1,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Christina Jane",
+                                    "imageUrl": "/images/img-1.png",
+                                    "quote": "Jelas dalam menjelaskan",
+                                    "update": "2 month ago"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Designer",
+                    "total": 204,
+                    "course": "Course",
+                    "item": [
+                        {
+                            "id": 1,
+                            "name": "UI UX Fundamental",
+                            "level": "beginner",
+                            "price": 300000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "kategori": "HARD SKILL",
+            "total": 120,
+            "item": [
+                {
+                    "id": 1,
+                    "name": "Tukang Bakso",
+                    "level": "beginner",
+                    "price": 300000
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "kategori": "HOBBY",
+            "total": 120,
+            "item": [
+                {
+                    "id": 1,
+                    "name": "Olahraga",
+                    "item": [
+                        {
+                            "id": 1,
+                            "title": "Bulu tangkis"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Basket"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "langganan": [
+        {
+            "id": 1,
+            "title": "FREE PAKET",
+            "detail": "1 Video /hari",
+            "price": 0,
+            "benefit": [
+                {
+                    "detail": "Free video 1 hari"
+                },
+                {
+                    "detail": "Update Kelas Terbaru"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "SILVER",
+            "detail": "1 kelas /bulan",
+            "price": 15000
+        },
+        {
+            "id": 3,
+            "title": "DIAMOND",
+            "detail": "1 kelas / hari (max 20 kelas/bulan)",
+            "price": 20000
+        },
+        {
+            "id": 4,
+            "title": "PLATINUM",
+            "detail": " 5 kelas / hari (max 50 kelas/bulan)",
+            "price": 50000
+        },
+        {
+            "id": 5,
+            "title": "URANIUM",
+            "detail": " 10 kelas / hari (max 200 kelas/bulan)",
+            "price": 200000
+        },
+        {
+            "id": 6,
+            "title": "TITANIUM",
+            "detail": " 30 kelas / hari (max 600 kelas/bulan)",
+            "price": 500000
+        },
+        {
+            "id": 7,
+            "title": "PLUTONIUM",
+            "detail": "Unlimited kelas",
+            "price": 80000,
+            "benefit": [
+                {
+                    "id": 1,
+                    "detail": "Unlimited akses kelas"
+                },
+                {
+                    "id": 2,
+                    "detail": "Mentor yang telah expert dibidang nya"
+                },
+                {
+                    "id": 3,
+                    "detail": "Forum Diskusi"
+                },
+                {
+                    "id": 4,
+                    "detail": "Diskusi Private bersama mentor"
+                },
+                {
+                    "id": 5,
+                    "detail": "Update Kelas Terbaru"
+                }
+            ]
+        }
+    ],
+    "newcourse": [
+        {
+            "id": 1,
+            "thumbnail": "/images/javascript.jpg",
+            "name": "javascript1",
+            "description": "Javascript adalah bahasa pemrograman yang banyak diminati oleh developer untuk front end",
+            "author": "Author",
+            "language": "Indonesia",
+            "subtitle": "Indonesia, English",
+            "level": "beginner",
+            "price": 250000,
+            "chapter": [
+                {
+                    "id": 1,
+                    "title": "Pengenalan Javascript",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 2,
+                    "title": "Apa itu pemrograman",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 3,
+                    "title": "Bahasa Pemrograman",
+                    "video": "RUTV_5m4VeI"
+                }
+            ],
+            "review": [
+                {
+                    "id": 1,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "thumbnail": "/images/javascript.jpg",
+            "name": "javascript2",
+            "description": "Javascript adalah bahasa pemrograman yang banyak diminati oleh developer untuk front end",
+            "author": "Author",
+            "language": "Indonesia",
+            "subtitle": "Indonesia, English",
+            "level": "beginner",
+            "price": 250000,
+            "chapter": [
+                {
+                    "id": 1,
+                    "title": "Pengenalan Javascript",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 2,
+                    "title": "Apa itu pemrograman",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 3,
+                    "title": "Bahasa Pemrograman",
+                    "video": "RUTV_5m4VeI"
+                }
+            ],
+            "review": [
+                {
+                    "id": 1,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "thumbnail": "/images/javascript.jpg",
+            "name": "javascript3",
+            "description": "Javascript adalah bahasa pemrograman yang banyak diminati oleh developer untuk front end",
+            "author": "Author",
+            "language": "Indonesia",
+            "subtitle": "Indonesia, English",
+            "level": "beginner",
+            "price": 250000,
+            "chapter": [
+                {
+                    "id": 1,
+                    "title": "Pengenalan Javascript",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 2,
+                    "title": "Apa itu pemrograman",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 3,
+                    "title": "Bahasa Pemrograman",
+                    "video": "RUTV_5m4VeI"
+                }
+            ],
+            "review": [
+                {
+                    "id": 1,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "thumbnail": "/images/javascript.jpg",
+            "name": "javascript4",
+            "description": "Javascript adalah bahasa pemrograman yang banyak diminati oleh developer untuk front end",
+            "author": "Author",
+            "language": "Indonesia",
+            "subtitle": "Indonesia, English",
+            "level": "beginner",
+            "price": 250000,
+            "chapter": [
+                {
+                    "id": 1,
+                    "title": "Pengenalan Javascript",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 2,
+                    "title": "Apa itu pemrograman",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 3,
+                    "title": "Bahasa Pemrograman",
+                    "video": "RUTV_5m4VeI"
+                }
+            ],
+            "review": [
+                {
+                    "id": 1,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "thumbnail": "/images/javascript.jpg",
+            "name": "javascript5",
+            "description": "Javascript adalah bahasa pemrograman yang banyak diminati oleh developer untuk front end",
+            "author": "Author",
+            "language": "Indonesia",
+            "subtitle": "Indonesia, English",
+            "level": "beginner",
+            "price": 250000,
+            "chapter": [
+                {
+                    "id": 1,
+                    "title": "Pengenalan Javascript",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 2,
+                    "title": "Apa itu pemrograman",
+                    "video": "RUTV_5m4VeI"
+                },
+                {
+                    "id": 3,
+                    "title": "Bahasa Pemrograman",
+                    "video": "RUTV_5m4VeI"
+                }
+            ],
+            "review": [
+                {
+                    "id": 1,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Christina Jane",
+                    "imageUrl": "/images/img-1.png",
+                    "quote": "Jelas dalam menjelaskan",
+                    "update": "2 month ago"
+                }
+            ]
+        }
+    ],
+    "testimoni": [
+        {
+            "id": 1,
+            "imageUrl": "/images/img-1.png",
+            "name": "Letty Mariana",
+            "title": "Finance Manager",
+            "description": "Di waktu luang aku gunakan untuk belajar bersama ruang ilmu, teknik penyampaian nya sangat bagus dan menyenangkan."
+        },
+        {
+            "id": 2,
+            "imageUrl": "/images/img-2.png",
+            "name": "Christina Jane",
+            "title": "Digital Marketing",
+            "description": "Di waktu luang aku gunakan untuk belajar bersama ruang ilmu, teknik penyampaian nya sangat bagus dan menyenangkan."
+        },
+        {
+            "id": 3,
+            "imageUrl": "/images/img-3.png",
+            "name": "James Franklin",
+            "title": "Project Manager",
+            "description": "Di waktu luang aku gunakan untuk belajar bersama ruang ilmu, teknik penyampaian nya sangat bagus dan menyenangkan."
+        },
+        {
+            "id": 4,
+            "imageUrl": "/images/img-4.png",
+            "name": "Hana",
+            "title": "Student",
+            "description": "Di waktu luang aku gunakan untuk belajar bersama ruang ilmu, teknik penyampaian nya sangat bagus dan menyenangkan."
+        }
+    ]
+}
